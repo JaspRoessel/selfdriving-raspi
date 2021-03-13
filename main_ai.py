@@ -132,7 +132,7 @@ while True:
 ######################################################################
 
 
-    if sensor <= 20:    # Hier sensor echo ding if statement maken, als auto binnen bepaale afstand wat ziet dan stop
+    if sensor <= 20:    # Als auto binnen bepaale afstand wat ziet dan stop
         M.Stop2()
         print("stop")
 
