@@ -1,2 +1,12 @@
 # selfdriving-raspi
-School Project: a self-driving rc car using artificial inteligence
+Requirements:
+-openCV
+-numpy
+-tensorflow
+-imutils
+
+**main_ai.py**
+  main script for autonomous driving
+  
+**main_data.py**
+  main script for collecting and saving data
