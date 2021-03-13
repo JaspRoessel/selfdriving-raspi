@@ -9,9 +9,9 @@ Requirements:
 
 **main_ai.py**
 
-  main script for autonomous driving
+  >main script for autonomous driving
   
   
 **main_data.py**
 
-  main script for collecting and saving data
+  >main script for collecting and saving data
