@@ -6,6 +6,7 @@ Requirements:
 * imutils
 * pandas
 * pygame
+* pigpio
 
 ---------------------------
 
