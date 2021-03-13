@@ -4,6 +4,8 @@ Requirements:
 * numpy
 * tensorflow
 * imutils
+* pandas
+* pygame
 
 ---------------------------
 
